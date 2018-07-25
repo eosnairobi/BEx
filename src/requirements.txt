@@ -1,3 +1,7 @@
+wheel
+psycopg2
+postgres
+gunicorn
 amqp==2.3.2
 backcall==0.1.0
 billiard==3.5.0.4
