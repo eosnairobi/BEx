@@ -5,7 +5,7 @@ gunicorn
 amqp==2.3.2
 backcall==0.1.0
 billiard==3.5.0.4
-celery==4.2.0
+celery==5.2.2
 certifi==2018.4.16
 chardet==3.0.4
 coinmarketcap==5.0.3
